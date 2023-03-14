@@ -51,7 +51,7 @@ namespace Bot
             var context = new SocketCommandContext(_client, message);
 
             if (message.Author.IsBot) return;
-            if (message.HasStringPrefix("CHAR", ref argPos))//paste here char symbol as massage prefix
+            if (message.HasStringPrefix("CHAR", ref argPos))//paste here char symbol as massage pref
             {
                 var result = await _commands.ExecuteAsync(context, argPos, _services);
                 if (!result.IsSuccess) Console.WriteLine(result.ErrorReason);
