@@ -1,0 +1,3 @@
+C:\Users\ALVAND\Desktop\discordBot\obj\Release\DiscordBot.csproj.AssemblyReference.cache
+C:\Users\ALVAND\Desktop\discordBot\obj\Release\DiscordBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALVAND\Desktop\discordBot\obj\Release\DiscordBot.csproj.CoreCompileInputs.cache
